@@ -1,1 +1,19 @@
+digraph BST{
+        node [shape=record];
+        A [label="<left> | <data> 30 | <right> "];
+        B [label="<left> | <data> 26 | <right> "];
+        C [label="<left> | <data> 49 | <right> "];
+        D [label="<left> | <data> 24 | <right> "];
+        E [label="<left> | <data> 28 | <right> "];
+        F [label="<left> | <data> 38 | <right> "];
+        G [label="<left> | <data> 60 | <right> "];
 
+        A:left -> B:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+        A:right-> C:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+        
+        B:left -> D:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+        B:right-> E:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+  
+        C:left -> F:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+        C:right-> G:data [arrowhead=vee, arrowtail=dot, dir=both,tailclip=false];
+}
