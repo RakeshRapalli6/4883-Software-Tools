@@ -1,7 +1,8 @@
 ## A01 - Graphviz
 ### Rakesh Rapalli
-### Description
 
+### Description
+This a Binary Search Tree created using the DOT language in the graphviz.
 
 ### Files
 
