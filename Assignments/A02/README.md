@@ -2,7 +2,7 @@ A02
 
 Notability
 
-description
+Description
 
 Notability is a note taking app and it has many features like audio recording, image support where it allows you to insert the images into the notes and it also has PDF annotations where you can edit the pdf's like adding the text directly into the pdf and more.
 
