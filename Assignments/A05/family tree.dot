@@ -1,1 +1,138 @@
+// red color is for male and purple is for male
+//clan names will be changed based on marriage, men keeps their clan name while women change their clans after marraige
 
+digraph FamilyTree {
+        node [shape=record];
+        gen1father [label="{Name: | James} | 
+        {Born-Died: |  1780 - 1860} | 
+        {<data> Age: | <next> 80} | {<data> Clan: | Whitmore} ", color = red]
+        
+        gen1mother [label="{ Name: | Mary} | 
+        { Born-Died: | 1788 - 1878} | 
+        { Age: | 90} | { Clan: | Whitmore} ", color = purple]
+        
+        
+        gen2child1 [label="{Name: | John } | 
+        {Born-Died: | 1808 - 1890} | 
+        { Age: | 82} | { Clan: | Whitmore} ", color = red]
+        
+        gen2child2 [label="{ Name: | William} | 
+        {Born-Died: |  1810 - 1888} | 
+        { Age: | 78} | { Clan: | Whitmore} ", color = red]
+        
+        gen2child3 [label="{  Name: |  Susan} | 
+        { Born-Died: |  1814 - 1893} | 
+        { Age: |  79} | { Clan: | Hawthorne} ", color = purple]
+        
+        gen2child4 [label="{  Name: | Robert} | 
+        { Born-Died: | 1816 - 1889 } | 
+        { Age: |  73} | { Clan: | Whitmore} ", color = red]
+        
+        gen3child1 [label="{ Name: | Michael} | 
+        { Born-Died: | 1839 - 1899 } | 
+        { Age: | 60} | { Clan: | Whitmore} ", color = red]
+        
+        gen3child2 [label="{  Name: | Jennifer} | 
+        { Born-Died: |  1841 - 1906 } | 
+        { Age: |  65} |  {Clan: | Chamberlain} ", color = purple]
+        
+        gen3child3 [label="{  Name: | Linda} | 
+        { Born-Died: |  1846 - 1910 } | 
+        { Age: |  64} |  {Clan: | Huntington} ", color = purple]
+        
+        
+        gen4child1 [label="{  Name: | Daniel} | 
+        { Born-Died: |  1871 - 1928 } | 
+        { Age: |  57} | { Clan: | Whitmore} ", color = red]
+        
+        gen4child2 [label="{  Name: | Christopher} | 
+        { Born-Died: |  1875 - 1925 } | 
+        { Age: |  50} |  {Clan: | Huntington} ", color = red]
+        
+        gen5child1 [label="{  Name: | Michelle} | 
+        { Born-Died: |  1906 - 1973 } | 
+        { Age: |  71} |  {Clan: | Prescott} ", color = purple]
+        
+        gen5child2 [label="{  Name: | Matthew} | 
+        { Born-Died: |  1908 - 1959 } | 
+        { Age: |  45} |  {Clan: | Huntington} ", color = red]
+        
+        gen6child1 [label="{  Name: | Joseph} | 
+        { Born-Died: |  1939 - 1980 } | 
+        { Age: |  41} |  {Clan: | Prescott} ", color = red]
+        
+        gen6child2 [label="{  Name: | Nicholas } | 
+        { Born-Died: |  1941 - 1985 } | 
+        { Age: |  44} |  {Clan: | Prescott} ", color = red]
+        
+        gen6child3 [label="{  Name: | Eric} | 
+        { Born-Died: |  1938 - 1959 } | 
+        { Age: |  21} |  {Clan: | Huntington} ", color = red]
+        
+         
+        gen6child4 [label="{  Name: | Thomas } | 
+        { Born-Died: |  1940 - 1992 } | 
+        { Age: |  52} |  {Clan: | Huntington} ", color = red]
+        
+        gen7child1 [label="{  Name: | Amanda } | 
+        { Born-Died: |  1973 - 2016 } | 
+        { Age: |  43} |  {Clan: | Ellsworth} ", color = purple]
+        
+        gen7child2 [label="{  Name: | Andrew  } | 
+        { Born-Died: |  1976 - 2020 } | 
+        { Age: |  44} |  {Clan: | Prescott} ", color = red]
+        
+        gen7child3 [label="{  Name: | Rachel } | 
+        { Born-Died: |  1969 - 2023 } | 
+        { Age: |  54 } |  {Clan: | Bradford} ", color = purple]
+        
+        
+        
+        gen1father -> gen2child1
+        gen1mother -> gen2child1
+        
+        gen1father -> gen2child2
+        gen1mother -> gen2child2
+        
+        gen1father -> gen2child3
+        gen1mother -> gen2child3
+        
+        gen1father -> gen2child4
+        gen1mother -> gen2child4
+        
+        gen2child1 -> gen3child1
+        gen2child1 -> gen3child2
+        
+        gen2child3 -> gen3child3
+        
+        gen3child1 -> gen4child1
+        
+        gen3child3 -> gen4child2
+        
+        gen4child2 -> gen5child1
+        gen4child2 -> gen5child2
+        
+        gen5child1 -> gen6child1
+        gen5child1 -> gen6child2
+        
+        gen5child2 -> gen6child3
+        gen5child2 -> gen6child4
+        
+        gen6child2 -> gen7child1
+        gen6child2 -> gen7child2
+        
+        gen6child4 -> gen7child3
+        
+        
+        
+        
+      
+      
+        
+        
+        
+        
+     
+
+
+}
