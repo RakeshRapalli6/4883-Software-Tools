@@ -37,7 +37,7 @@ def asyncGetWeather(url):
 if __name__=='__main__':
 
     # Could be a good idea to use the buildWeatherURL function from gui.py
-    url = 'http://www.wunderground.com/history/daily/KCHO/date/2023-01-01'
+    url = 'https://www.wunderground.com/history/monthly/CYEG/date/2005-4-4'
 
     # get the page source HTML from the URL
     page = asyncGetWeather(url)
