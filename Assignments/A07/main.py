@@ -17,7 +17,7 @@ def asyncGetWeather(url):
         """
         
         #change '/usr/local/bin/chromedriver' to the path of your chromedriver executable
-        service = Service(executable_path='/Users/rakeshrapelli/Downloads/chromedriver_mac64 (2)')
+        service = Service(executable_path='/Users/rakeshrapelli/Downloads/chromedriver_mac64')
         options = webdriver.ChromeOptions()
         options.add_argument('--headless')
         
