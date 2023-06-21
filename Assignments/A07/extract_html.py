@@ -27,7 +27,7 @@ def asyncGetWeather(url):
 
     flushprint("Getting page...")
     driver.get(url)
-    flushprint("waiting 10 seconds for dynamic data to load...")
+    flushprint("waiting 6 seconds for dynamic data to load...")
     # wait for the web page to load
     time.sleep(6)
     flushprint("Done ... returning page source HTML")
