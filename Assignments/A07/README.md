@@ -1,6 +1,20 @@
-WEB SCRAPING
+A07-WEB SCRAPING
 
-This project is to perform the scraping of dynamically loaded webpage using beautiful soup, selenium and tabulate the scraped html content using pygui.
+Rakesh Rapalli
+
+This project will combine a python GUI with a beautiful soup web scraper to: 1. grab, 2. save and 3. display the data. The initial python gui will be used to enter the appropriate values to allow you to leverage the URL, meaning it will accept values for: month, day, year, airport code, and one of the following: daily, weekly, monthly. The resulting python gui will display the received data in a tabular format.
+
+The syntax that i have used in my code to return the url is this snippet provided in the assignment folder.
+base_url = "https://wunderground.com/history"
+filter = "monthly"
+airport = "YPJT"
+year = "2021"
+month = "6"
+day = "1"
+
+# build the url to scrape weather from
+url = f"{base_url}/{filter}/{airport}/{year}-{month}-{day}"
+
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
