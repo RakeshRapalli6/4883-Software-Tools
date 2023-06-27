@@ -29,7 +29,7 @@ url = f"{base_url}/{filter}/{airport}/{year}-{month}-{day}"
 
 ### NOTE
 
-- I have included the links for seperate files of my code and the main code which has all the code together.
+- I have included the links for seperate files of my code and the main code which has all the code together as well.
 
 - The links for the same is given below.
 
