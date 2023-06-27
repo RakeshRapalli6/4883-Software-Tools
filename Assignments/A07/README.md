@@ -1,6 +1,6 @@
-A07-WEB SCRAPING
+### A07-WEB SCRAPING
 
-Rakesh Rapalli
+### Rakesh Rapalli
 
 This project will combine a python GUI with a beautiful soup web scraper to: 1. grab, 2. save and 3. display the data. The initial python gui will be used to enter the appropriate values to allow you to leverage the URL, meaning it will accept values for: month, day, year, airport code, and one of the following: daily, weekly, monthly. The resulting python gui will display the received data in a tabular format.
 
@@ -13,17 +13,17 @@ url = f"{base_url}/{filter}/{airport}/{year}-{month}-{day}"
 
 ### Requirements:
 
-  -You need to have pysimple simple GUI, beautiful soup and selenium installed on your computer to the run this code.
+-You need to have pysimple simple GUI, beautiful soup and selenium installed on your computer to the run this code.
 
-  -Include the airport-codes.csv in the same directory as the main code.
+-Include the airport-codes.csv in the same directory as the main code.
 
-  -Run the code in pysimple simple GUI and choose the day, month and year and click submit then it will print a url link.
+-Run the code in pysimple simple GUI and choose the day, month and year and click submit then it will print a url link.
 
-  -Use selenium to obtain the async data sent back from wunderground using that link.
+-Use selenium to obtain the async data sent back from wunderground using that link.
 
-  -Use BS4 to parse the data and pull out the requested data.
+-Use BS4 to parse the data and pull out the requested data.
 
-  -Finally, use PySimpleGui tabular view to display the data received from the initial request.
+-Finally, use PySimpleGui tabular view to display the data received from the initial request.
 
 
 |   #   | Folder Link | Assignment Description |
