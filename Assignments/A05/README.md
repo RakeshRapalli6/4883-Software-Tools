@@ -1,5 +1,8 @@
-A05-Family tree via graphviz
+### A05-Family tree via graphviz
 
+### Rakesh Rapallo
+
+### Description
 
 This is a generation of the family tree using a dot syntax in graphviz.
 I have generated this family tree by writing the dot syntax manually rather than generating it using python cause the output image i got for the python generated is messy and doesn't make any sense and i couldn't figure the way to fix it so that i have written the dot syntax myself and have created 7 generations for which i got the output image which is small compared to to the one generated via python using dwarf family tree that is provided but atleast here the output make sense so i kept this.I have used my own names and clan names taken from online.
