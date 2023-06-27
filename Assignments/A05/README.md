@@ -1,6 +1,6 @@
 ### A05-Family tree via graphviz
 
-### Rakesh Rapallo
+### Rakesh Rapalli
 
 ### Description
 
