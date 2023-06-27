@@ -29,9 +29,9 @@ url = f"{base_url}/{filter}/{airport}/{year}-{month}-{day}"
 
 ### NOTE
 
-I have included the links for seperate files of my code and the main code which has all the code together.
+- I have included the links for seperate files of my code and the main code which has all the code together.
 
-The links for the same is given below.
+- The links for the same is given below.
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
