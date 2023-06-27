@@ -6,7 +6,7 @@ This project will combine a python GUI with a beautiful soup web scraper to: 1. 
 
 The syntax that i have used in my code to return the url is this snippet provided in the assignment folder.
 base_url = "https://wunderground.com/history"
-# build the url to scrape weather from
+Build the url to scrape weather from
 url = f"{base_url}/{filter}/{airport}/{year}-{month}-{day}"
 
 Requirements:
