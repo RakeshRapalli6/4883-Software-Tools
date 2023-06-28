@@ -1,4 +1,4 @@
-### A06-Software tool-Trello
+### A06-Software tool presentation -Trello
 
 ### Rakesh Rapalli
 
