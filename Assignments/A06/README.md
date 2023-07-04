@@ -10,7 +10,7 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 ## Boards:
 
-- Boards: A board represents a project or a team. It acts as a container for lists and cards. You can create multiple boards for different projects or purposes.
+- A board represents a project or a team. It acts as a container for lists and cards. You can create multiple boards for different projects or purposes.
 
 - To create a board start by clicking on 'Boards', the tool shows you bunch of pre devoloped boards based on various categories.You can either choose a board from there if you already know what you need or you can make your own board without any layers to it.
   
@@ -18,7 +18,7 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 ## Lists: 
 
-- Lists: Within each board, you can create lists to categorize tasks or stages of a project. Common lists could be "To Do," "In Progress," and "Done."
+- Within each board, you can create lists to categorize tasks or stages of a project. Common lists could be "To Do," "In Progress," and "Done."
 
 - You can as many lists within the board you are currently in based on your project.
 
@@ -28,15 +28,15 @@ Trello is a web-based project management and collaboration tool that helps indiv
   
 ## Cards:
 
-- Cards: Cards are the individual tasks or items within lists. You can create cards for specific tasks and add details such as descriptions, due dates, labels, attachments, and checklists.
+- Cards are the individual tasks or items within lists. You can create cards for specific tasks and add details such as descriptions, due dates, labels, attachments, and checklists.
 
 ## Drag and drop: 
 
-- Drag and Drop: Trello's interface allows you to easily drag and drop cards between lists and boards to update their status or progress.
+- Trello's interface allows you to easily drag and drop cards between lists and boards to update their status or progress.
 
 ## Collaboration: 
 
-- Collaboration: Trello supports collaboration among team members. You can invite others to join your board and assign cards to specific team members. Additionally, you can leave comments, attach files, and mention team members to communicate and collaborate effectively.
+- Trello supports collaboration among team members. You can invite others to join your board and assign cards to specific team members. Additionally, you can leave comments, attach files, and mention team members to communicate and collaborate effectively.
 
 
 
