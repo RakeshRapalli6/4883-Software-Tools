@@ -6,7 +6,7 @@
 
 Trello is a web-based project management and collaboration tool that helps individuals and teams organize their tasks and projects. It uses a visual interface with boards, lists, and cards to represent tasks and their progress.
 
-### Features
+### Features: 
 
 ## Boards:
 
