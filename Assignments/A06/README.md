@@ -30,7 +30,11 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - Cards: Cards are the individual tasks or items within lists. You can create cards for specific tasks and add details such as descriptions, due dates, labels, attachments, and checklists.
 
+## Drag and drop: 
+
 - Drag and Drop: Trello's interface allows you to easily drag and drop cards between lists and boards to update their status or progress.
+
+## Collaboration: 
 
 - Collaboration: Trello supports collaboration among team members. You can invite others to join your board and assign cards to specific team members. Additionally, you can leave comments, attach files, and mention team members to communicate and collaborate effectively.
 
