@@ -84,4 +84,35 @@ Response:
 
 ```
 
+### Get cases
+Retrieves the num of cases by country, region and year
+
+Endpoint: /cases/
+
+Method: GET
+
+Parameters:
+
+country (str): A country name.
+
+region (str): A WHO region.
+
+year (int): A 4-digit year.
+
+
+Response:
+```json
+{
+  "total": 52330,
+  "params": {
+    "country": "Afghanistan",
+    "region": "EMRO",
+    "year": 2020
+  },
+  "success": true
+}
+```
+
+
+
 
