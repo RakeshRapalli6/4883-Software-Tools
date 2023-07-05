@@ -92,12 +92,3 @@ Response:
 ```
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Credits
-
-The COVID Data API is created by 'Name'. It uses the FastAPI framework and various Python libraries for data handling and processing.
-
