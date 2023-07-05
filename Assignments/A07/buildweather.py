@@ -1,14 +1,19 @@
 import PySimpleGUI as sg
 import csv
 
+#Function to load the airport codes from the csv
+# Ruturns the airport code
 def loadAirportCodes():
+    #List of the codes
     airport_codes = []
     with open('airport-codes.csv', newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
+            #Appending the ident row 
             airport_codes.append(row['ident'])
     return airport_codes
 
+#Function to return the current date, month and year 
 def currentDate(returnType='tuple'):
     """ Get the current date and return it as a tuple, list, or dictionary.
     Args:
@@ -26,6 +31,7 @@ def currentDate(returnType='tuple'):
         'year': datetime.now().year
     }
 
+#Function to return the url based on the values you enter
 def buildWeatherURL(month=None, day=None, year=None, airport=None, filter=None):
     """ A GUI to pass parameters to get the weather from the web.
     Args:
