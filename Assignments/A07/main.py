@@ -31,7 +31,7 @@ def asyncGetWeather(url):
         driver.quit()                                               # quit ChromeDriver
         return render                                               # return the page source HTML
 
-
+#Function to extract the data from the page source render returned from the func asyncGetWeather
 def extractDataFromPageSource(pageSource, filter):
     """ Return the data from the page source. """
     # parse the HTML
@@ -74,13 +74,14 @@ def extractDataFromPageSource(pageSource, filter):
     
     return headings, data
 
+#Function to tabulated data using GUI
 def showTable(headings, tableData):
     """ Define function to show the data on the gui"""
     layout = [[sg.Table(values=tableData, headings=headings, justification='center', alternating_row_color='#b6edb2')]]
     window = sg.Window('Data Table', layout)
     event, values = window.read()
 
-
+#Function to load the aiport codes from csv
 def loadAirportCodes():
     """ Load airport codes from a CSV file and return them as a list. """
     airport_codes = []
@@ -89,7 +90,8 @@ def loadAirportCodes():
         for row in reader:
             airport_codes.append(row['ident'])
     return airport_codes
-
+        
+#Returns the current daya, month and year
 def currentDate(returnType='tuple'):
     """ Get the current date and return it as a tuple, list, or dictionary.
     Args:
@@ -107,6 +109,7 @@ def currentDate(returnType='tuple'):
         'year': datetime.now().year
     }
 
+#Returns the url based on the input you give
 def buildWeatherURL(month=None, day=None, year=None, airport=None, filter=None):
     """ A GUI to pass parameters to get the weather from the web.
     Args:
