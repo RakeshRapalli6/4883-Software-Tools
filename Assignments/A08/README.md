@@ -142,10 +142,10 @@ Response:
 }
 ```
 
-### Get max_deaths
-Retrieves the maximum number of deaths or can be filtered by country, region, and year.
+### Get min_deaths
+Retrieves the minimum number of deaths or can be filtered by country, region, and year.
 
-Endpoint: /max_deaths/
+Endpoint: /min_deaths/
 
 Method: GET
 
@@ -170,6 +170,38 @@ Response:
   "success": true
 }
 ```
+
+### Get avg_deaths
+Retrieves the average number of deaths or can be filtered by country, region, and year.
+
+Endpoint: /avg_deaths/
+
+Method: GET
+
+Parameters:
+
+country (str): A country name.
+
+region (str): A WHO region.
+
+year (int): A 4-digit year.
+
+
+Response:
+```json
+ {
+  "avg_deaths": 23197.10989010989,
+  "params": {
+    "country": "Afghanistan",
+    "region": "EMRO",
+    "year": 2020
+  },
+  "success": true
+}
+```
+
+
+
 
 
 
