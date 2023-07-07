@@ -43,6 +43,11 @@ Trello is a web-based project management and collaboration tool that helps indiv
   
 <img width="257" alt="card" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/92e67589-4219-4a75-98e9-3c66a184f452">
 
+- This is how card looks when opened:
+  
+<img width="759" alt="card_opened" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/21d540e2-b920-48e0-a985-37c31018d5ed">
+
+
 ## Drag and drop: 
 
 - Trello's interface allows you to easily drag and drop cards between lists and boards to update their status or progress.
