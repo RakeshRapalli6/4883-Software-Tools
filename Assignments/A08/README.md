@@ -204,7 +204,7 @@ Response:
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |   1   | [api.py](api.py) | has the main code of the project
-|   2   | [data.csv](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A08/data.csv) | has the csv data
+|   2   | [data.csv](data.csv) | has the csv data
 |   3   | [report.pdf](report.pdf) | this the report of the project
 |   4   | [requirements.txt](Requirements.txt)| contains the requirements to run the project
 
