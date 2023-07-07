@@ -116,6 +116,8 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - This will be very useful in notifying people on the slack that are not currently on your board.
 
+### From slack to trello: 
+
 - You can also do certain things directly from the slack to trello since both are connected.
   
 - you can create a card to your preferred list in the board.
@@ -123,6 +125,7 @@ Trello is a web-based project management and collaboration tool that helps indiv
 - You can also add the board url link to current slack channel and many more.
 
 <img width="672" alt="trello-slaack" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/2538023d-7973-4db4-9f65-d424e35cb0c4">
+
   
 <img width="728" alt="Slack" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/8b259651-227f-4a3e-9068-17879b95853a">
 
