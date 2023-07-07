@@ -96,6 +96,9 @@ Trello is a web-based project management and collaboration tool that helps indiv
 - Now when you make any changes to the board like adding a card, moving a card then it will send that as an alert to the slack channel.
 
 - This will be very useful in notifying people on the slack that are not currently on your board.
+  
+<img width="728" alt="Slack" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/8b259651-227f-4a3e-9068-17879b95853a">
+
 
 
 
