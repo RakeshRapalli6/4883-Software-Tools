@@ -43,8 +43,11 @@ Trello is a web-based project management and collaboration tool that helps indiv
 - Trello also supports automation where it lets us create some rules and buttons which gets the job done easier.
   
    1. Rules: This let's us add an action based on the trigger that you will set before the action.
+      
             - Now whenever you do that action in the board, the specific autmotion that you have set will be performed.
+      
             - You can add this automation to all the boards you have.
+      
             - You can also delete the automation 
       
 
