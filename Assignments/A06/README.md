@@ -42,14 +42,51 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - Trello also supports automation where it lets us create some rules and buttons which gets the job done easier.
   
-   1. Rules: This let's us add an action based on the trigger that you will set before the action.
+   1. ## Rules:
       
-            - Now whenever you do that action in the board, the specific autmotion that you have set will be performed.
+        - This let's us add an action based on the trigger that you will set before the action.
       
-            - You can add this automation to all the boards you have.
+        - Now whenever you do that action in the board, the specific autmotion that you have set will be performed.
       
-            - You can also delete the automation 
+        - You can add this automation to all the boards you have.
       
+        - You can also delete the automation
+
+   2. ##  Buttons:
+ 
+        - You can create buttons to do a specific task that you choose while setting it up.
+        - You can choose an icon and give name for the button.
+        - Then add the action you want it to perform when clicked
+        - This feature is very useful when you are working on a project and there is this one task or an action that needs to be done 
+          repetitively, with this you don’t need to do that manually all the time. You can just click the button and boom the job is done.
+
+  
+### Power-ups: 
+
+- Power-ups is a feature that let's the trello connect with other tools like slack, figma, gmail, teams and many more.
+- The way you connect to other tool using power-up is click on power-ups in the top right corner of the app.
+- Then select the tool you want to connect with from the list.
+- Now you have to give the access to trello.
+- And add the slack user name to the trello.
+- Then you can use the tool.
+  
+## Slack: 
+
+- Now let's see what all we can do by connecting slack with trello.
+
+- You can select the workspace you want to connect it with the board you are on.
+  
+- Then select the alerts you want to send to the slack when performed on the trello, you will also add to which slack channel you want the 
+  alerts to be sent and you are done.
+
+- Now when you make any changes to the board like adding a card, moving a card then it will send that as an alert to the slack channel.
+
+- This will be very useful in notifying people on the slack that are not currently on your board.
+
+
+
+
+
 
 
 
