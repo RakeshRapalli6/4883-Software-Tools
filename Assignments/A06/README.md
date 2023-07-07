@@ -16,6 +16,8 @@ Trello is a web-based project management and collaboration tool that helps indiv
   
 - Now that you have created your board,You can do lot to your board one being you can make changes to the background color of your board, you can add stickers and you can even also add some specific fields to your board.
 
+- You can make your board a template too by clicking on the three dots to the top right and choosing "make a template" option.
+
 - Below is the image of the board:  
 
 ![Board](https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/5eda0015-a647-4956-987c-4d6cca885a35)
@@ -46,6 +48,18 @@ Trello is a web-based project management and collaboration tool that helps indiv
 - This is how card looks when opened:
   
 <img width="759" alt="card_opened" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/21d540e2-b920-48e0-a985-37c31018d5ed">
+
+### Things you can do directly in the card: 
+
+- Once you are in a card you can click of watch to track the someone's task through the notifications.
+
+- You can write a description in the card, this may be related to the task you are doing.
+
+- You can add the cover photo for the card.
+
+- You can add labels to differentiate the cards
+
+- You can add custom fields like check list, priority and more if needed.
 
 
 ## Drag and drop: 
@@ -105,7 +119,15 @@ Trello is a web-based project management and collaboration tool that helps indiv
   
 <img width="728" alt="Slack" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/8b259651-227f-4a3e-9068-17879b95853a">
 
+### Final thoughts: 
 
+- This tool can be useful to the people who constantly works on many individual projects and group projects as it has a very easy to use 
+  interface you can just create a board and start organizing your projects.
+
+- There is also lot of default template boarda that tool provides for the reference incase if you need some help managing your projects.
+
+- Since it has plugins to many other applications, it will make the user's job is easier to connect with more people and make use of other 
+  tools while organizing and managing your projects.
 
 
 
