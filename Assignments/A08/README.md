@@ -203,7 +203,7 @@ Response:
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1   | [api.py](api.py) |  | has the main code of the project
+|   1   | [api.py](api.py) | has the main code of the project
 |   2   | [extract_html.py](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A07/extract_html.py) | To extract the html content from the url
 |   3   | [main.py](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A07/main.py) |The main code which has all the code including pygui to tabulate the html data
 |   4   | [airport-codes.csv](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A07/airport-codes.csv)| csv file with airport codes
