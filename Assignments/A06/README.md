@@ -16,6 +16,8 @@ Trello is a web-based project management and collaboration tool that helps indiv
   
 - Now that you have created your board,You can do lot to your board one being you can make changes to the background color of your board, you can add stickers and you can even also add some specific fields to your board.
 
+- Below is the image of the board:  
+
 ![Board](https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/5eda0015-a647-4956-987c-4d6cca885a35)
 
 ## Lists: 
@@ -28,12 +30,18 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - You can move this lists by clicking on the three dots placed beside the list or simply dragging and dropping them.
 
+- Below is the image of the list:
+  
 <img width="266" alt="list" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/e13fd804-75c5-426f-aa12-995ae5bb29b3">
 
   
 ## Cards:
 
 - Cards are the individual tasks or items within lists. You can create cards for specific tasks and add details such as descriptions, due dates, labels, attachments, and checklists.
+
+- Below is the image of the card:
+  
+<img width="257" alt="card" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/92e67589-4219-4a75-98e9-3c66a184f452">
 
 ## Drag and drop: 
 
