@@ -127,6 +127,8 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - You can also add the board url link to current slack channel and many more.
 
+- Below attached are some commands that i have mentioned above that you can do from the slack
+
 <img width="672" alt="trello-slaack" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/2538023d-7973-4db4-9f65-d424e35cb0c4">
 
 
