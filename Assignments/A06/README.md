@@ -72,8 +72,9 @@ Trello is a web-based project management and collaboration tool that helps indiv
         - Then add the action you want it to perform when clicked
         - This feature is very useful when you are working on a project and there is this one task or an action that needs to be done 
           repetitively, with this you don’t need to do that manually all the time. You can just click the button and boom the job is done.
-
   
+<img width="303" alt="Autmation" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/a8418f81-fe7b-4e81-a8ed-15f0f37cfeb5">
+
 ### Power-ups: 
 
 - Power-ups is a feature that let's the trello connect with other tools like slack, figma, gmail, teams and many more.
