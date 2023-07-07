@@ -12,11 +12,11 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - A board represents a project or a team. It acts as a container for lists and cards. You can create multiple boards for different projects or purposes.
 
-(![Board](https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/5eda0015-a647-4956-987c-4d6cca885a35)
-
 - To create a board start by clicking on 'Boards', the tool shows you bunch of pre devoloped boards based on various categories.You can either choose a board from there if you already know what you need or you can make your own board without any layers to it.
   
 - Now that you have created your board,You can do lot to your board one being you can make changes to the background color of your board, you can add stickers and you can even also add some specific fields to your board.
+
+![Board](https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/5eda0015-a647-4956-987c-4d6cca885a35)
 
 ## Lists: 
 
@@ -27,6 +27,9 @@ Trello is a web-based project management and collaboration tool that helps indiv
 - By default you get some pre-determined  lists but to create your own list, click on the create another list tab, enter the name of your card and you are done.
 
 - You can move this lists by clicking on the three dots placed beside the list or simply dragging and dropping them.
+
+<img width="266" alt="list" src="https://github.com/RakeshRapalli6/4883-Software-Tools/assets/123696771/e13fd804-75c5-426f-aa12-995ae5bb29b3">
+
   
 ## Cards:
 
