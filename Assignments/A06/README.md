@@ -42,7 +42,7 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - Trello also supports automation where it lets us create some rules and buttons which gets the job done easier.
   
-   1. edf
+   1. Rules: 
 
 
 
