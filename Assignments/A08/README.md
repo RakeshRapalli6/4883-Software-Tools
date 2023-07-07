@@ -206,9 +206,7 @@ Response:
 |   1   | [api.py](api.py) | has the main code of the project
 |   2   | [data.csv](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A08/data.csv) | has the csv data
 |   3   | [report.pdf](report.pdf) | this the report of the project
-|   4   | [airport-codes.csv](https://github.com/RakeshRapalli6/4883-Software-Tools/blob/main/Assignments/A07/airport-codes.csv)| csv file with airport codes
-|   5   | [output files](https://github.com/RakeshRapalli6/4883-Software-Tools/tree/main/Assignments/A07/Output%20files)| has output images 
-
+|   4   | [requirements.txt](Requirements.txt)| contains the requirements to run the project
 
 
 
