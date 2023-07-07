@@ -38,5 +38,11 @@ Trello is a web-based project management and collaboration tool that helps indiv
 
 - Trello supports collaboration among team members. You can invite others to join your board and assign cards to specific team members. Additionally, you can leave comments, attach files, and mention team members to communicate and collaborate effectively.
 
+### Automation: 
+
+- Trello also supports automation where it lets us create some rules and buttons which gets the job done easier.
+  
+ 1. edf
+
 
 
